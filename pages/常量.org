@@ -1,2 +1,14 @@
-* [[go语言程序设计]]
-*
+* 枚举
+** #+BEGIN_SRC go
+const(
+	ONE = iota + 1
+  	TWO
+  	THREE
+)
+
+var TypeValue = map[int]string{
+  ONE: "one string",
+  TWO: "two string",
+}
+#+END_SRC
+** iota，const行索引，同一行中值相同
