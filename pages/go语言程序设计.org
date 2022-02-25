@@ -1,7 +1,5 @@
 * 枚举
-** ～ code
-** df
-** #+BEGIN_SRC clojure
+** #+BEGIN_SRC go
   (println "Hello world!")
 #+END_SRC
 **
