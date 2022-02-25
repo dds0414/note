@@ -11,4 +11,4 @@ var TypeValue = map[int]string{
   TWO: "two string",
 }
 #+END_SRC
-** iota，const行索引，
+** iota，const行索引，同一行中值相同
