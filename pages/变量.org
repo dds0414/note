@@ -6,4 +6,4 @@
 ** 切片、map、channel
 * new&make
 ** new，制定类型长度分配零值，返回指针
-** make，引用类型，必须用make初始化，
+** make，引用类型，必须用make初始化，确保完成内存分配
