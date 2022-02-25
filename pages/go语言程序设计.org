@@ -5,5 +5,10 @@ const(
   	TWO
   	THREE
 )
+
+var TypeValue = map[int]string{
+  ONE: "one string",
+  TWO: "two string",
+}
 #+END_SRC
 **
