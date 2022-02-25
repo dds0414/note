@@ -1,5 +1,9 @@
 * 枚举
 ** #+BEGIN_SRC go
-(println "Hello world!")
+const(
+	ONE = iota + 1
+  	TWO
+  	THREE
+)
 #+END_SRC
 **
