@@ -1,5 +1,6 @@
 * 枚举
 ** #+BEGIN_SRC go
-  (println "Hello world!")
+(println "Hello world!")
+
 #+END_SRC
 **
