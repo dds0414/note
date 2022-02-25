@@ -5,4 +5,4 @@
 * 引用类型
 ** 切片、map、channel
 * new&make
-** new
+** new，制定类型长度分配
